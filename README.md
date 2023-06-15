@@ -4,6 +4,8 @@ PoC of combining vue-class-component and Inversify together.
 
 This may not works in Babel decorators.
 
+##
+##
 ## Example
 
 ```ts
